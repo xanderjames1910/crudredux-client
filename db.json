@@ -7,7 +7,7 @@
     },
     {
       "nombre": "Rib Eye 800g",
-      "precio": "200",
+      "precio": "400",
       "id": 4
     },
     {
@@ -24,6 +24,11 @@
       "nombre": "Jugo de Piña",
       "precio": 100,
       "id": 8
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 9
     }
   ]
 }
